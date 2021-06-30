@@ -50,10 +50,6 @@ TIP
 # 自助解包客户端
 [基于electron-vue开发的微信小程序自助解包(反编译)客户端](https://github.com/zzxiexin/Applets-Decompile)
 
-# [小程序逆向视频专栏](https://m.lizhiweike.com/channel2/1037814)
-- 还是不知道怎么逆向？
-- 遇到问题不会处理？  
-
 #### 实现微信小程序最新运行环境
 
 - [实现小程序编译和运行环境系列(一)](https://mp.weixin.qq.com/s/OjW7GYrNSq-5ojGC3Qa83g)
